@@ -12,4 +12,4 @@ STM32 batarya yönetimi kontrolü için basit bir web sitesi tasarımı gerçekl
 <img src="https://github.com/dilarabukerr/solar-panel-project/blob/main/devre_semas%C4%B1.png" alt="devre şeması çizimi" width="900" height="500">
 
 <h3> Sonuç </h3>
-<img src="https://github.com/dilarabukerr/solar-panel-project/blob/main/devre2.png" alt="devre" width="500" height="300">
+<img src="https://github.com/dilarabukerr/solar-panel-project/blob/main/devre2.png" alt="devre">

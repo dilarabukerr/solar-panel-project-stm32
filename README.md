@@ -13,3 +13,9 @@ STM32 batarya yönetimi kontrolü için basit bir web sitesi tasarımı gerçekl
 
 <h3> Sonuç </h3>
 <img src="https://github.com/dilarabukerr/solar-panel-project/blob/main/devre2.png" alt="devre">
+
+Sonuç olarak bu sistemde güneş paneli üzerinde bulunan iki adet LDR sensör ile ışık seviyeleri ölçülür. Hangi tarafta ışık daha fazla ise servo motor o tarafa döner. Güneş paneli ile ışıktan enerji alınır ve BMS devresi ile pil şarj edilir. ESP32 modülü sayesinde ise pilin kalan enerjisi ölçülür ve belirlenen IP adresi ile kullanıcıya gösterilir.
+
+<img src="https://github.com/dilarabukerr/solar-panel-project/blob/main/server.png" alt="server">
+
+
